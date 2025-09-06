@@ -1,6 +1,6 @@
 # FinTech Cybersecurity: Tackling SIM Swap Attacks
 
-This repository contains research work on **SIM Swap Attacks** in FinTech, conducted under the guidance of **Dr. Usmaa Arshad**.  
+This repository contains research work on **SIM Swap Attacks** in FinTech, conducted under the guidance of **Dr. Usama Arshad**.  
 The study focuses on strengthening the **CIA Triad (Confidentiality, Integrity, Availability)** in financial systems and proposes proactive solutions for mobile banking and wallet security.
 
 ## Contents
